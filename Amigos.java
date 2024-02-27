@@ -55,7 +55,9 @@ public class Amigos extends JFrame {
 				String Nombres = "Mi nombre es Carlos Abraham Ojeda Pereira";
 				JOptionPane.showMessageDialog(null, "Mi nombre es Carlos Abraham Ojeda Pereira");
 		        textField_Nombres.setText(Nombres);
-			
+		        String Nombre = "Carlos, Nallely, Yazmin, Alba, Landy";
+				JOptionPane.showMessageDialog(null, "Carlos, Nallely, Yazmin, Alba, Landy");
+		        textField_Nombres.setText(Nombre);
 			}
 		});
 		btnNewButton.setBounds(261, 186, 166, 107);
